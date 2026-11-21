@@ -7,3 +7,7 @@ pypdf
 bs4
 langchain-text-splitters 
 langchain-openai
+chromadb
+langchain-huggingface 
+sentence-transformers
+langchain_huggingface 
